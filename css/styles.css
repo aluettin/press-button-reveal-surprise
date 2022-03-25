@@ -70,3 +70,9 @@ button {
 #openKeyboard {
   opacity: 0;
 }
+
+@media only screen and (max-width: 767px) {
+  #openKeyboard {
+    opacity: 1;
+  }
+}
